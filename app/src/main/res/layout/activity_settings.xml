@@ -4,6 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="ca.jfmcode.pass_note.Activity.LaunchActivity">
+    tools:context="ca.jfmcode.pass_note.Activity.SettingsActivity">
 
 </android.support.constraint.ConstraintLayout>
